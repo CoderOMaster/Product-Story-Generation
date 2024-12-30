@@ -68,6 +68,6 @@ Generated stories include:
 - Fine-tune LLMs for enhanced storytelling.
 
 ## **Demo**
-<video src='demo.mp4' width=180/>   
+![Demo](demo.mp4)
 
 ---
