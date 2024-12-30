@@ -61,13 +61,13 @@ Generated stories include:
 2. **Actionable Insights:** Data-driven recommendations for the product team.
 3. **Source Citations:** References to relevant input files.
 
-## **Demo**
-<video src='demo.mp4' width=180/>
-
 ## **Future Improvements**
 
 - Incorporate automation of workflow while fetching real time data.
 - Explore alternative clustering algorithms for better accuracy.
 - Fine-tune LLMs for enhanced storytelling.
+
+## **Demo**
+<video src='demo.mp4' width=180/>   
 
 ---
